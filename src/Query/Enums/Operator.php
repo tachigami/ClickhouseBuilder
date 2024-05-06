@@ -25,6 +25,7 @@ final class Operator extends Enum
     public const GLOBAL_IN = 'GLOBAL IN';
     public const GLOBAL_NOT_IN = 'GLOBAL NOT IN';
     public const AND = 'AND';
+    public const AND_NOT = 'AND NOT';
     public const OR = 'OR';
     public const CONCAT = '||';
     public const LAMBDA = '->';
